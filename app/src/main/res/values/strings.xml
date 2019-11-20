@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PharmaGIS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragmen_accountt">Hello blank fragment account</string>
+    <string name="hello_blank_fragment_search">Hello blank fragment search</string>
+    <string name="base_url">http://185.22.65.20/</string>
+    <string name="hello_blank_fragment_map">Hello blank fragment map</string>
+    <string name="history">HISTORY</string>
+</resources>
